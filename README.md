@@ -23,4 +23,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/228504034?v=4" width=115><br><sub>Samara Regina</sub>](https://github.com/samararegina) | 
+ [<img loading="lazy" src="https://avatars.githubusercontent.com/u/228504034?v=4" width=115><br><sub>Samara Regina</sub>](https://github.com/samararegina)
